@@ -1,1 +1,0 @@
-curl --header 'Authorization: Bearer ***' --header 'Content-Type: application/json' --data $'{\n  "type": "createFromExternalCatalog",\n  "image": "reproducibleresearchplatform/rrp-tst:q75v54b-cunya",\n  "environmentType": "jupyterlab"\n}\n' 'https://rrp-eosc.ethz.ch/api/projects'
