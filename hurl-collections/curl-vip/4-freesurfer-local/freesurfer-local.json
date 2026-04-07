@@ -1,0 +1,10 @@
+{
+	"name" : "test-local-with-api",
+	"pipelineIdentifier":"FreeSurfer-Recon-all/7.3.1",
+	"resultsLocation" : "/vip/Home",
+	"inputValues" : {
+		"license": "/vip/Home/test-eosc/license.txt",
+		"subjid": "test-brain",
+		"nifti": "/vip/Home/test-eosc/brain.nii.gz"
+	}
+}

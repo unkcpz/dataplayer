@@ -1,0 +1,13 @@
+{
+	"name" : "test-girder-with-api",
+	"pipelineIdentifier":"Bruker-preproc/0.6-2",
+	"resultsLocation" : "/vip/Home",
+	"inputValues" : {
+		"fid": "magicsGirder:69c3a6a24a2f40d55302c53b",
+		"acqp": "magicsGirder:69c3a6a24a2f40d55302c535",
+		"method": "magicsGirder:69c3a6a24a2f40d55302c541",
+		"refscan": "magicsGirder:69c3a6a24a2f40d55302c53e",
+		"rawjob0": "magicsGirder:69c3a6a44a2f40d55302c565",
+		"outname": "spectro-test"
+	}
+}

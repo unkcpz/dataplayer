@@ -1,0 +1,10 @@
+{
+	"name" : "test-http-with-api",
+	"pipelineIdentifier":"FreeSurfer-Recon-all/7.3.1",
+	"resultsLocation" : "/vip/Home",
+	"inputValues" : {
+		"license": "https://www.creatis.insa-lyon.fr/~abonnet/license.txt",
+		"subjid": "test-brain",
+		"nifti": "https://www.creatis.insa-lyon.fr/~abonnet/brain.nii.gz"
+	}
+}
