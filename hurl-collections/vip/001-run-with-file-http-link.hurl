@@ -1,3 +1,6 @@
+POST https://vip.creatis.insa-lyon.fr/test/rest/executions
+apikey: {{VIP_API_KEY}}
+```json
 {
 	"name" : "test-http-with-api",
 	"pipelineIdentifier":"CQUEST/0.6",
@@ -8,3 +11,5 @@
 		"zipped_folder": "https://www.creatis.insa-lyon.fr/~abonnet/basis_11_7.zip"
 	}
 }
+```
+

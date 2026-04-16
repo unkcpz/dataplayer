@@ -1,0 +1,5 @@
+Questions:
+
+- magicsGirder as storage, why it needs to be provided when set APIkey? is that for grand permission to access only the magicGirder? 
+- besides magicsGirder, other storage location exists?
+
